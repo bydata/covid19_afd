@@ -1,0 +1,403 @@
+Land,Kennziffer,Landkreis,Grenze
+SH,01001,"Flensburg, Stadt",DK
+SH,01002,"Kiel, Landeshauptstadt"
+SH,01003,"Lübeck, Hansestadt"
+SH,01004,"Neumünster, Stadt"
+SH,01051,Dithmarschen
+SH,01053,Herzogtum Lauenburg
+SH,01054,Nordfriesland,DK
+SH,01055,Ostholstein
+SH,01056,Pinneberg
+SH,01057,Plön
+SH,01058,Rendsburg-Eckernförde
+SH,01059,Schleswig-Flensburg,DK
+SH,01060,Segeberg
+SH,01061,Steinburg
+SH,01062,Stormarn
+HH,02000,"Hamburg, Freie und Hansestadt"
+NI,03101,"Braunschweig, Stadt"
+NI,03102,"Salzgitter, Stadt"
+NI,03103,"Wolfsburg, Stadt"
+NI,03151,Gifhorn
+NI,03153,Goslar
+NI,03154,Helmstedt
+NI,03155,Northeim
+NI,03157,Peine
+NI,03158,Wolfenbüttel
+NI,03159,Göttingen
+NI,03241,Region Hannover
+NI,03251,Diepholz
+NI,03252,Hameln-Pyrmont
+NI,03254,Hildesheim
+NI,03255,Holzminden
+NI,03256,Nienburg (Weser)
+NI,03257,Schaumburg
+NI,03351,Celle
+NI,03352,Cuxhaven
+NI,03353,Harburg
+NI,03354,Lüchow-Dannenberg
+NI,03355,Lüneburg
+NI,03356,Osterholz
+NI,03357,Rotenburg (Wümme)
+NI,03358,Heidekreis
+NI,03359,Stade
+NI,03360,Uelzen
+NI,03361,Verden
+NI,03401,"Delmenhorst, Stadt"
+NI,03402,"Emden, Stadt"
+NI,03403,"Oldenburg (Oldenburg), Stadt"
+NI,03404,"Osnabrück, Stadt"
+NI,03405,"Wilhelmshaven, Stadt"
+NI,03451,Ammerland
+NI,03452,Aurich
+NI,03453,Cloppenburg
+NI,03454,Emsland,NL
+NI,03455,Friesland
+NI,03456,Grafschaft Bentheim,NL
+NI,03457,Leer,NL
+NI,03458,Oldenburg
+NI,03459,Osnabrück
+NI,03460,Vechta
+NI,03461,Wesermarsch
+NI,03462,Wittmund
+HB,04011,"Bremen, Stadt"
+HB,04012,"Bremerhaven, Stadt"
+NW,05111,"Düsseldorf, Stadt"
+NW,05112,"Duisburg, Stadt"
+NW,05113,"Essen, Stadt"
+NW,05114,"Krefeld, Stadt"
+NW,05116,"Mönchengladbach, Stadt"
+NW,05117,"Mülheim an der Ruhr, Stadt"
+NW,05119,"Oberhausen, Stadt"
+NW,05120,"Remscheid, Stadt"
+NW,05122,"Solingen, Klingenstadt"
+NW,05124,"Wuppertal, Stadt"
+NW,05154,Kleve,NL
+NW,05158,Mettmann
+NW,05162,Rhein-Kreis Neuss
+NW,05166,Viersen,NL
+NW,05170,Wesel
+NW,05314,"Bonn, Stadt"
+NW,05315,"Köln, Stadt"
+NW,05316,"Leverkusen, Stadt"
+NW,05334,Städteregion Aachen,(NL,BE)
+NW,05358,Düren
+NW,05362,Rhein-Erft-Kreis
+NW,05366,Euskirchen,BE
+NW,05370,Heinsberg,NL
+NW,05374,Oberbergischer Kreis
+NW,05378,Rheinisch-Bergischer Kreis
+NW,05382,Rhein-Sieg-Kreis
+NW,05512,"Bottrop, Stadt"
+NW,05513,"Gelsenkirchen, Stadt"
+NW,05515,"Münster, Stadt"
+NW,05554,Borken,NL
+NW,05558,Coesfeld
+NW,05562,Recklinghausen
+NW,05566,Steinfurt
+NW,05570,Warendorf
+NW,05711,"Bielefeld, Stadt"
+NW,05754,Gütersloh
+NW,05758,Herford
+NW,05762,Höxter
+NW,05766,Lippe
+NW,05770,Minden-Lübbecke
+NW,05774,Paderborn
+NW,05911,"Bochum, Stadt"
+NW,05913,"Dortmund, Stadt"
+NW,05914,"Hagen, Stadt der FernUniversität"
+NW,05915,"Hamm, Stadt"
+NW,05916,"Herne, Stadt"
+NW,05954,Ennepe-Ruhr-Kreis
+NW,05958,Hochsauerlandkreis
+NW,05962,Märkischer Kreis
+NW,05966,Olpe
+NW,05970,Siegen-Wittgenstein
+NW,05974,Soest
+NW,05978,Unna
+HE,06411,"Darmstadt, Wissenschaftsstadt"
+HE,06412,"Frankfurt am Main, Stadt"
+HE,06413,"Offenbach am Main, Stadt"
+HE,06414,"Wiesbaden, Landeshauptstadt"
+HE,06431,Bergstraße
+HE,06432,Darmstadt-Dieburg
+HE,06433,Groß-Gerau
+HE,06434,Hochtaunuskreis
+HE,06435,Main-Kinzig-Kreis
+HE,06436,Main-Taunus-Kreis
+HE,06437,Odenwaldkreis
+HE,06438,Offenbach
+HE,06439,Rheingau-Taunus-Kreis
+HE,06440,Wetteraukreis
+HE,06531,Gießen
+HE,06532,Lahn-Dill-Kreis
+HE,06533,Limburg-Weilburg
+HE,06534,Marburg-Biedenkopf
+HE,06535,Vogelsbergkreis
+HE,06611,"Kassel, documenta-Stadt"
+HE,06631,Fulda
+HE,06632,Hersfeld-Rotenburg
+HE,06633,Kassel
+HE,06634,Schwalm-Eder-Kreis
+HE,06635,Waldeck-Frankenberg
+HE,06636,Werra-Meißner-Kreis
+RP,07111,"Koblenz, Stadt"
+RP,07131,Ahrweiler
+RP,07132,Altenkirchen (Westerwald)
+RP,07133,Bad Kreuznach
+RP,07134,Birkenfeld
+RP,07135,Cochem-Zell
+RP,07137,Mayen-Koblenz
+RP,07138,Neuwied
+RP,07140,Rhein-Hunsrück-Kreis
+RP,07141,Rhein-Lahn-Kreis
+RP,07143,Westerwaldkreis
+RP,07211,"Trier, Stadt"
+RP,07231,Bernkastel-Wittlich
+RP,07232,Eifelkreis Bitburg-Prüm,(BE,LU)
+RP,07233,Vulkaneifel
+RP,07235,Trier-Saarburg,LU
+RP,07311,"Frankenthal (Pfalz), Stadt"
+RP,07312,"Kaiserslautern, Stadt"
+RP,07313,"Landau in der Pfalz, Stadt"
+RP,07314,"Ludwigshafen am Rhein, Stadt"
+RP,07315,"Mainz, Stadt"
+RP,07316,"Neustadt an der Weinstraße, Stadt"
+RP,07317,"Pirmasens, Stadt"
+RP,07318,"Speyer, Stadt"
+RP,07319,"Worms, Stadt"
+RP,07320,"Zweibrücken, Stadt"
+RP,07331,Alzey-Worms
+RP,07332,Bad Dürkheim
+RP,07333,Donnersbergkreis
+RP,07334,Germersheim,FR
+RP,07335,Kaiserslautern
+RP,07336,Kusel
+RP,07337,Südliche Weinstraße,FR
+RP,07338,Rhein-Pfalz-Kreis
+RP,07339,Mainz-Bingen
+RP,07340,Südwestpfalz,FR
+BW,08111,"Stuttgart, Landeshauptstadt"
+BW,08115,Böblingen
+BW,08116,Esslingen
+BW,08117,Göppingen
+BW,08118,Ludwigsburg
+BW,08119,Rems-Murr-Kreis
+BW,08121,"Heilbronn, Stadt"
+BW,08125,Heilbronn
+BW,08126,Hohenlohekreis
+BW,08127,Schwäbisch Hall
+BW,08128,Main-Tauber-Kreis
+BW,08135,Heidenheim
+BW,08136,Ostalbkreis
+BW,08211,"Baden-Baden, Stadt"
+BW,08212,"Karlsruhe, Stadt"
+BW,08215,Karlsruhe
+BW,08216,Rastatt,FR
+BW,08221,"Heidelberg, Stadt"
+BW,08222,"Mannheim, Universitätsstadt"
+BW,08225,Neckar-Odenwald-Kreis
+BW,08226,Rhein-Neckar-Kreis
+BW,08231,"Pforzheim, Stadt"
+BW,08235,Calw
+BW,08236,Enzkreis
+BW,08237,Freudenstadt
+BW,08311,"Freiburg im Breisgau, Stadt"
+BW,08315,Breisgau-Hochschwarzwald,FR
+BW,08316,Emmendingen,FR
+BW,08317,Ortenaukreis,FR
+BW,08325,Rottweil
+BW,08326,Schwarzwald-Baar-Kreis,CH
+BW,08327,Tuttlingen,CH
+BW,08335,Konstanz,CH
+BW,08336,Lörrach,(CH,FR)
+BW,08337,Waldshut,CH
+BW,08415,Reutlingen
+BW,08416,Tübingen
+BW,08417,Zollernalbkreis
+BW,08421,"Ulm, Universitätsstadt"
+BW,08425,Alb-Donau-Kreis
+BW,08426,Biberach
+BW,08435,Bodenseekreis,CH
+BW,08436,Ravensburg
+BW,08437,Sigmaringen
+BY,09161,"Ingolstadt, Stadt"
+BY,09162,"München, Landeshauptstadt"
+BY,09163,"Rosenheim, Stadt"
+BY,09171,Altötting,AT
+BY,09172,Berchtesgadener Land,AT
+BY,09173,Bad Tölz-Wolfratshausen,AT
+BY,09174,Dachau
+BY,09175,Ebersberg
+BY,09176,Eichstätt
+BY,09177,Erding
+BY,09178,Freising
+BY,09179,Fürstenfeldbruck
+BY,09180,Garmisch-Partenkirchen,AT
+BY,09181,Landsberg am Lech
+BY,09182,Miesbach,AT
+BY,09183,Mühldorf a.Inn
+BY,09184,München
+BY,09185,Neuburg-Schrobenhausen
+BY,09186,Pfaffenhofen a.d.Ilm
+BY,09187,Rosenheim,AT
+BY,09188,Starnberg
+BY,09189,Traunstein,AT
+BY,09190,Weilheim-Schongau
+BY,09261,"Landshut, Stadt"
+BY,09262,"Passau, Stadt",AT
+BY,09263,"Straubing, Stadt"
+BY,09271,Deggendorf
+BY,09272,Freyung-Grafenau,(AT,CZ)
+BY,09273,Kelheim
+BY,09274,Landshut
+BY,09275,Passau,AT
+BY,09276,Regen,CZ
+BY,09277,Rottal-Inn,AT
+BY,09278,Straubing-Bogen
+BY,09279,Dingolfing-Landau
+BY,09361,"Amberg, Stadt"
+BY,09362,"Regensburg, Stadt"
+BY,09363,"Weiden i.d.OPf., Stadt"
+BY,09371,Amberg-Sulzbach
+BY,09372,Cham,CZ
+BY,09373,Neumarkt i.d.OPf.
+BY,09374,Neustadt a.d.Waldnaab,CZ
+BY,09375,Regensburg
+BY,09376,Schwandorf,CZ
+BY,09377,Tirschenreuth,CZ
+BY,09461,"Bamberg, Stadt"
+BY,09462,"Bayreuth, Stadt"
+BY,09463,"Coburg, Stadt"
+BY,09464,"Hof, Stadt"
+BY,09471,Bamberg
+BY,09472,Bayreuth
+BY,09473,Coburg
+BY,09474,Forchheim
+BY,09475,Hof,CZ
+BY,09476,Kronach
+BY,09477,Kulmbach
+BY,09478,Lichtenfels
+BY,09479,Wunsiedel i.Fichtelgebirge,CZ
+BY,09561,"Ansbach, Stadt"
+BY,09562,"Erlangen, Stadt"
+BY,09563,"Fürth, Stadt"
+BY,09564,"Nürnberg, Stadt"
+BY,09565,"Schwabach, Stadt"
+BY,09571,Ansbach
+BY,09572,Erlangen-Höchstadt
+BY,09573,Fürth
+BY,09574,Nürnberger Land
+BY,09575,Neustadt a.d.Aisch-Bad Windsheim
+BY,09576,Roth
+BY,09577,Weißenburg-Gunzenhausen
+BY,09661,"Aschaffenburg, Stadt"
+BY,09662,"Schweinfurt, Stadt"
+BY,09663,"Würzburg, Stadt"
+BY,09671,Aschaffenburg
+BY,09672,Bad Kissingen
+BY,09673,Rhön-Grabfeld
+BY,09674,Haßberge
+BY,09675,Kitzingen
+BY,09676,Miltenberg
+BY,09677,Main-Spessart
+BY,09678,Schweinfurt
+BY,09679,Würzburg
+BY,09761,"Augsburg, Stadt"
+BY,09762,"Kaufbeuren, Stadt"
+BY,09763,"Kempten (Allgäu), Stadt"
+BY,09764,"Memmingen, Stadt"
+BY,09771,Aichach-Friedberg
+BY,09772,Augsburg
+BY,09773,Dillingen a.d.Donau
+BY,09774,Günzburg
+BY,09775,Neu-Ulm
+BY,09776,Lindau (Bodensee),AT
+BY,09777,Ostallgäu,AT
+BY,09778,Unterallgäu
+BY,09779,Donau-Ries
+BY,09780,Oberallgäu,AT
+SL,10041,Regionalverband Saarbrücken,FR
+SL,10042,Merzig-Wadern,(FR,LU)
+SL,10043,Neunkirchen
+SL,10044,Saarlouis,FR
+SL,10045,Saarpfalz-Kreis,FR
+SL,10046,St. Wendel
+BE,11100,"Berlin-Ost, Stadt"
+BE,11200,"Berlin-West, Stadt"
+BB,12051,"Brandenburg an der Havel, Stadt"
+BB,12052,"Cottbus, Stadt"
+BB,12053,"Frankfurt (Oder), Stadt",PL
+BB,12054,"Potsdam, Stadt"
+BB,12060,Barnim,PL
+BB,12061,Dahme-Spreewald
+BB,12062,Elbe-Elster
+BB,12063,Havelland
+BB,12064,Märkisch-Oderland,PL
+BB,12065,Oberhavel
+BB,12066,Oberspreewald-Lausitz
+BB,12067,Oder-Spree,PL
+BB,12068,Ostprignitz-Ruppin
+BB,12069,Potsdam-Mittelmark
+BB,12070,Prignitz
+BB,12071,Spree-Neiße,PL
+BB,12072,Teltow-Fläming
+BB,12073,Uckermark,PL
+MV,13003,"Rostock, Hansestadt"
+MV,13004,"Schwerin, Landeshauptstadt"
+MV,13071,Mecklenburgische Seenplatte
+MV,13072,Landkreis Rostock
+MV,13073,Vorpommern-Rügen
+MV,13074,Nordwestmecklenburg
+MV,13075,Vorpommern-Greifswald,PL
+MV,13076,Ludwigslust-Parchim
+SN,14511,"Chemnitz, Stadt"
+SN,14521,Erzgebirgskreis,CZ
+SN,14522,Mittelsachsen,CZ
+SN,14523,Vogtlandkreis,CZ
+SN,14524,Zwickau
+SN,14612,"Dresden, Stadt"
+SN,14625,Bautzen,CZ
+SN,14626,Görlitz,PL
+SN,14627,Meißen
+SN,14628,Sächsische Schweiz-Osterzgebirge,CZ
+SN,14713,"Leipzig, Stadt"
+SN,14729,Leipzig
+SN,14730,Nordsachsen
+ST,15001,"Dessau-Roßlau, Stadt"
+ST,15002,"Halle (Saale), Stadt"
+ST,15003,"Magdeburg, Landeshauptstadt"
+ST,15081,Altmarkkreis Salzwedel
+ST,15082,Anhalt-Bitterfeld
+ST,15083,Börde
+ST,15084,Burgenlandkreis
+ST,15085,Harz
+ST,15086,Jerichower Land
+ST,15087,Mansfeld-Südharz
+ST,15088,Saalekreis
+ST,15089,Salzlandkreis
+ST,15090,Stendal
+ST,15091,Wittenberg
+TH,16051,"Erfurt, Stadt"
+TH,16052,"Gera, Stadt"
+TH,16053,"Jena, Stadt"
+TH,16054,"Suhl, Stadt"
+TH,16055,"Weimar, Stadt"
+TH,16056,"Eisenach, Stadt"
+TH,16061,Eichsfeld
+TH,16062,Nordhausen
+TH,16063,Wartburgkreis
+TH,16064,Unstrut-Hainich-Kreis
+TH,16065,Kyffhäuserkreis
+TH,16066,Schmalkalden-Meiningen
+TH,16067,Gotha
+TH,16068,Sömmerda
+TH,16069,Hildburghausen
+TH,16070,Ilm-Kreis
+TH,16071,Weimarer Land
+TH,16072,Sonneberg
+TH,16073,Saalfeld-Rudolstadt
+TH,16074,Saale-Holzland-Kreis
+TH,16075,Saale-Orla-Kreis
+TH,16076,Greiz
+TH,16077,Altenburger Land
